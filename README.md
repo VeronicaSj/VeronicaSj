@@ -44,12 +44,11 @@ I’m passionate about building **scalable, efficient solutions** that enhance t
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VeronicaSj&show_icons=true&theme=radical&count_private=true" alt="Veronica's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeronicaSj&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaSj&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaSj&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeronicaSj&theme=radical" alt="GitHub streak" />
 </p>
 
 ---
